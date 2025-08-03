@@ -1,0 +1,11 @@
+Bedrooms,Bathrooms,Size_sqft,Age,Garage,Location,Price
+3,2,1500,10,1,Urban,250000
+4,3,2000,5,1,Suburban,320000
+2,1,900,15,0,Rural,130000
+3,2,1600,7,1,Urban,260000
+5,4,3000,2,1,Suburban,450000
+4,2,1800,10,0,Urban,310000
+2,1,850,20,0,Rural,120000
+3,2,1400,12,1,Suburban,240000
+4,3,2200,6,1,Urban,330000
+3,1,1100,18,0,Rural,170000
