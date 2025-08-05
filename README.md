@@ -72,9 +72,7 @@ G1: 15, G2: 14
 
 ## Screenshots
 
-![alt text](<Screenshot 2025-08-02 140353.png>)
-![alt text](<Screenshot 2025-08-02 140422.png>)
-![alt text](<Screenshot 2025-08-02 140433.png>)
+<img width="1907" height="915" alt="image" src="https://github.com/user-attachments/assets/638883c5-ea3f-401c-a37a-a5818ee9ae06" />
 
 ## Future Improvements
 
