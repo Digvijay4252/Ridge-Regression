@@ -63,13 +63,13 @@ Open in browser
 Visit: http://localhost:10000
 
 # Sample Input
-
+```
 Sex: Male
 Age: 17
 StudyTime: 3
 G1: 15, G2: 14
 → Prediction: 16.3
-
+```
 ## Screenshots
 
 <img width="1907" height="915" alt="image" src="https://github.com/user-attachments/assets/638883c5-ea3f-401c-a37a-a5818ee9ae06" />
