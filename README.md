@@ -72,7 +72,15 @@ G1: 15, G2: 14
 ```
 ## Screenshots
 
-<img width="1907" height="915" alt="image" src="https://github.com/user-attachments/assets/638883c5-ea3f-401c-a37a-a5818ee9ae06" />
+### Step 1
+<img width="1898" height="903" alt="image" src="https://github.com/user-attachments/assets/8c5e93ed-f5f6-44e4-a90d-852de9c7391e" />
+
+### Step 2
+<img width="1897" height="900" alt="image" src="https://github.com/user-attachments/assets/9c011dd1-d0aa-403f-a0a0-6e486a25fec4" />
+
+### Step 4
+<img width="1895" height="898" alt="image" src="https://github.com/user-attachments/assets/719f3af5-a2e7-4d11-8a1f-5c97c2cc67d0" />
+
 
 ## Future Improvements
 
