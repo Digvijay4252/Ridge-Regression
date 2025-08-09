@@ -4,7 +4,7 @@
 
 ## Ridge Regression – Final Grade Predictor
 
-This project applies Ridge Regression, a regularized linear regression technique, to predict a student’s final grade (G3) based on academic and behavioral attributes. The solution includes a clean Flask web app where users input student data and receive an instant grade prediction.
+This project uses Ridge Regression, a regularized linear regression technique, to predict house prices based on various property and location features. It includes a Flask web app where users can input property details and get an instant price prediction.
 
 ---
 
@@ -12,16 +12,14 @@ This project applies Ridge Regression, a regularized linear regression technique
 
 ```
 Ridge-Regression/
-├── app.py                   # Flask backend
-├── train_model.py           # Model training script using Ridge Regression
-├── model.pkl                # Trained Ridge model
-├── encoders.pkl             # Encoded values for categorical inputs
-├── student_data.csv         # Training dataset
+├── app.py                 # Flask backend for predictions
+├── train_model.py         # Script to train Ridge Regression model
+├── model.pkl              # Trained Ridge Regression model
+├── encoders.pkl           # Encoders for categorical variables
+├── house_prices.csv       # Dataset used for training
 │
 ├── templates/
-│   └── index.html           # Input form UI
-└── static/
-    └── style.css            # Optional CSS file
+│   └── index.html 
 
 ```
 
@@ -84,10 +82,14 @@ G1: 15, G2: 14
 
 ## Future Improvements
 
-Feature importance visualizations
+Add feature importance visualization
 
-Add prediction confidence/interval
+Include confidence intervals for predictions
 
-Support batch predictions (CSV upload)
+Support batch CSV predictions
 
-Deploy to Render/Heroku
+Deploy on Heroku / Render
+
+Integrate interactive maps for location-based predictions
+
+
